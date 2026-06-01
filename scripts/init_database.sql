@@ -1,6 +1,9 @@
 /*
 ------
-Create required layers (schema nad databases)
+
+=============================================================
+Create Database and Schemas
+=============================================================
 */
 
 -- show databases;
